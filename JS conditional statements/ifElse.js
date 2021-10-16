@@ -8,7 +8,7 @@ if(isNaN(age)){
 		if(age >= 18){
 		alert("Welcome to the website");
 	} else if(age > 13){
-		alert("You are not allowed to access the website");
+		alert("You aren't allowed to access the website");
 		console.log("You're still a teenager");
 	} else {
 		alert("You're not allowed to access the website");

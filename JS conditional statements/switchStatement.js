@@ -3,7 +3,7 @@ var x = 5;
 switch (x){
 	case 5:
 	case 6:
-		console.log("x is 6 OR 5");
+		console.log("x is 5 OR 6");
 		break;
 	case 7:
 		console.log("x is 7");

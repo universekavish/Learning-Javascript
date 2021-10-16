@@ -17,5 +17,5 @@ if(yesOrNO == "n" || yesOrNO == "no"){
 		res = num3;
 	}
 
-	alert("The biggest number is: " + res);
+	alert("Biggest number is: " + res);
 }
