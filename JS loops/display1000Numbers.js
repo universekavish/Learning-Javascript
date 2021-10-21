@@ -5,4 +5,5 @@ for(var i = 0; i < 1000; i++){
 	res += randomNum;
 }
 
+
 document.write("<p>" + res + "</p>");
