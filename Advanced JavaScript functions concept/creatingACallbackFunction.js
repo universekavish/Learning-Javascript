@@ -7,5 +7,5 @@ function sumItem(arr, callback){
 }
 
 sumItem([1, 2, 3], function(sum){
-	console.log(""Res is: " + sum");
+	console.log("Res is: " + sum);
 })
